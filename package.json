@@ -1,0 +1,14 @@
+{
+  "name": "loving-hearts-hands-cdc2-elk-city",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Six-page, responsive, fully editable Oklahoma childcare website. Dependency-free Node build and network preview.",
+  "engines": { "node": ">=20 <25" },
+  "scripts": {
+    "dev": "node scripts/server.mjs --watch",
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/server.mjs",
+    "check": "node scripts/check.mjs"
+  }
+}

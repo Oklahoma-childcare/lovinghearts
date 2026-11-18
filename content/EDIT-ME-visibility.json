@@ -1,0 +1,16 @@
+{
+  "showDirector": true,
+  "showCapacity": true,
+  "showQualityLevel": true,
+  "showSubsidies": true,
+  "showYearRound": true,
+  "showOfficialLicensingLink": true,
+  "showFacebookOnlyWithConfirmedUrl": true,
+  "showInstagramOnlyWithConfirmedUrl": true,
+  "showFacilityPhoto": false,
+  "showTeamPhoto": false,
+  "showTuitionInfo": false,
+  "tuitionInfo": "Contact the center for current tuition and fees.",
+  "showEnrollmentNotice": false,
+  "enrollmentNotice": "Ask us about current openings."
+}

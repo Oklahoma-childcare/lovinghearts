@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 720" fill="none" role="img" aria-label="Colorful illustrated little home and flower garden">
+<path d="M399 44c112-34 248 8 305 104 48 81 19 181 34 265 16 91-42 191-121 227-101 47-215 11-311 18C172 669 60 560 57 429 54 310 116 241 193 153c60-67 125-85 206-109Z" fill="#F8DFE1"/>
+<path d="M155 567c-17-52 2-106 46-138 36-26 93-33 132-12 46 26 60 73 55 120-5 53-45 97-97 105-61 9-116-19-136-75Z" fill="#E7E0FA"/>
+<path d="M554 484c-51-17-76-66-57-115 16-43 54-73 102-73 53 0 101 40 101 90 0 78-80 120-146 98Z" fill="#E1EDD8"/>
+<path d="M145 564c78-19 161-18 236-8 97 13 182-23 267-14l30 93c-169 13-338 11-507-3l-26-68Z" fill="#C9DFCC"/>
+<path d="M250 337 402 206 554 337" stroke="#324B43" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M271 322h263c13 0 24 11 24 24v207H250V344c0-12 9-22 21-22Z" fill="#FFF9EC" stroke="#324B43" stroke-width="10"/>
+<path d="M404 219 260 336h288L404 219Z" fill="#E88A78"/>
+<path d="M394 396c0-13 11-24 24-24h3c13 0 24 11 24 24v157h-75V422c0-17 7-26 24-26Z" fill="#C3BAEA" stroke="#324B43" stroke-width="9"/>
+<circle cx="434" cy="473" r="6" fill="#324B43"/>
+<rect x="284" y="380" width="60" height="72" rx="22" fill="#B9D4C2" stroke="#324B43" stroke-width="8"/>
+<path d="M314 380v72M284 417h60" stroke="#324B43" stroke-width="6"/>
+<rect x="470" y="380" width="60" height="72" rx="22" fill="#F9DFA7" stroke="#324B43" stroke-width="8"/>
+<path d="M500 380v72M470 417h60" stroke="#324B43" stroke-width="6"/>
+<path d="M390 304c-7-9-22-3-21 8 1 10 12 19 29 31 17-12 28-21 29-31 1-11-14-17-21-8l-8 9-8-9Z" fill="#FFF3E9" stroke="#324B43" stroke-width="5"/>
+<path d="M205 554c-7-64 15-111 23-130m-23 130c-28-47-42-55-56-65m56 65c19-32 30-42 42-52" stroke="#3C6556" stroke-width="8" stroke-linecap="round"/>
+<g fill="#E88A78"><circle cx="226" cy="424" r="21"/><circle cx="260" cy="441" r="20"/><circle cx="252" cy="404" r="18"/><circle cx="206" cy="401" r="18"/><circle cx="226" cy="385" r="17"/></g><circle cx="230" cy="415" r="16" fill="#F7E2A0"/>
+<path d="M606 559c7-67-7-102-18-130m18 130c-22-30-41-50-56-55m56 55c21-37 34-45 49-53" stroke="#3C6556" stroke-width="8" stroke-linecap="round"/>
+<g fill="#BCAEE8"><circle cx="572" cy="417" r="21"/><circle cx="604" cy="428" r="21"/><circle cx="616" cy="392" r="20"/><circle cx="578" cy="385" r="20"/><circle cx="595" cy="368" r="19"/></g><circle cx="594" cy="399" r="17" fill="#F6DD9F"/>
+<path d="M139 246c20-45 81-36 89 11 16-16 44-11 52 8 12 30-11 43-38 43h-96c-43 0-45-48-7-62Z" fill="#fffdf6"/>
+<path d="M572 171c20-41 62-26 70 4 22-14 52-4 52 23 1 22-16 34-40 34h-90c-31 0-29-47 8-61Z" fill="#FFFDF6"/>
+<circle cx="577" cy="95" r="49" fill="#F5D784"/><path d="M570 24v-15m0 170v-16m72-68h18m-164 0h-18m128-52 13-13m-101 116-13 13" stroke="#EAB75A" stroke-width="8" stroke-linecap="round"/>
+<path d="m109 355 7 20 22 6-22 7-7 21-7-21-23-7 23-6 7-20Zm557-78 6 16 17 6-17 5-6 17-5-17-17-5 17-6 5-16Z" fill="#E98A78"/>
+<path d="M305 603c31 14 68 17 101 17m-19-24c27 10 64 9 99 2" stroke="#96B8A0" stroke-width="8" stroke-linecap="round"/>
+<path d="m166 168 35 15-35 15 11-15-11-15Z" fill="#B5A8DC"/>
+<g stroke="#324B43" stroke-width="5" stroke-linecap="round"><path d="M322 250c-6-11-17-13-25-8M479 255c6-11 17-13 25-8"/></g>
+</svg>

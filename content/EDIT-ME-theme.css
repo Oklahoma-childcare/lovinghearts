@@ -1,0 +1,15 @@
+:root {
+  /* EDIT THESE HEX COLORS TO CHANGE THE ENTIRE DESIGN */
+  --ink: #283d37;
+  --ink-soft: #596961;
+  --paper: #fffdf8;
+  --cream: #fff5e8;
+  --peach: #f9d9c7;
+  --coral: #e88a78;
+  --lavender: #e9e0fa;
+  --lavender-ink: #71619a;
+  --butter: #f7e2a0;
+  --sage: #dbeadd;
+  --line: #e9e5db;
+  --shadow: 0 24px 70px rgba(40,61,55,.09);
+}

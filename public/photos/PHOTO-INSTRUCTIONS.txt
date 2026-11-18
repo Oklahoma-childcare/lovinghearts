@@ -1,0 +1,16 @@
+No photographs of the real childcare facility were independently verified.
+
+Place photos here only if you have permission to publish them.
+For example:
+  facility.jpg
+  team.jpg
+
+Then change content/EDIT-ME-media.json:
+  facilityPhoto.src => /photos/facility.jpg
+  facilityPhoto.alt => accurate description
+  facilityPhoto.authenticCenterAsset => true
+
+Also change content/EDIT-ME-visibility.json:
+  showFacilityPhoto => true
+
+Do not publish identifiable children's photographs without appropriate permission.
