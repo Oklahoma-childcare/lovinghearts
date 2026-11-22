@@ -34,9 +34,9 @@
   "weekendHours": "Saturday & Sunday: Closed",
   "operatingCalendar": "Year-round",
   "siteUrl": "",
-  "facebookUrl": "",
+  "facebookUrl": "https://www.facebook.com/p/Loving-Hearts-Hands-CDC-61594077848691/",
   "instagramUrl": "",
-  "possibleUnverifiedFacebookUrl": "https://www.facebook.com/p/Loving-Hearts-Hands-CDC-61594077848691/",
+  "possibleUnverifiedFacebookUrl": "",
   "contactSubject": "Childcare inquiry — Loving Hearts & Hands CDC 2",
   "updatedDate": "2026-11-18",
   "ageGroups": [
@@ -47,7 +47,11 @@
       "number": "01",
       "label": "First little moments",
       "description": "A new beginning comes with lots of questions. Reach out about comfort, feeding, rest, and how to plan for a smooth introduction.",
-      "questions": ["What supplies would you like families to bring?", "How do feeding and rest arrangements work?", "How are parents updated during the day?"]
+      "questions": [
+        "What supplies would you like families to bring?",
+        "How do feeding and rest arrangements work?",
+        "How are parents updated during the day?"
+      ]
     },
     {
       "key": "toddlers",
@@ -56,7 +60,11 @@
       "number": "02",
       "label": "Curiosity in motion",
       "description": "Toddlers are discovering their voices, routines, and independence. Ask the team what an age-appropriate day looks like for your little one.",
-      "questions": ["What is the routine for toddlers?", "How do you help with drop-off transitions?", "What should families know about mealtimes and naps?"]
+      "questions": [
+        "What is the routine for toddlers?",
+        "How do you help with drop-off transitions?",
+        "What should families know about mealtimes and naps?"
+      ]
     },
     {
       "key": "preschool",
@@ -65,7 +73,11 @@
       "number": "03",
       "label": "Questions, stories & wonder",
       "description": "The preschool years open up new ways to connect and explore. Ask about activities, communication, and routines for this age group.",
-      "questions": ["What kinds of activities are available?", "How are daily routines communicated?", "How can families prepare for the first week?"]
+      "questions": [
+        "What kinds of activities are available?",
+        "How are daily routines communicated?",
+        "How can families prepare for the first week?"
+      ]
     },
     {
       "key": "schoolage",
@@ -74,7 +86,11 @@
       "number": "04",
       "label": "Room to keep growing",
       "description": "School-age care is listed in the state record. Check with the center about age eligibility, hours, school-day arrangements, and availability.",
-      "questions": ["Which school-age schedules are offered?", "Are transportation or school-day arrangements available?", "How do enrollment and availability work for this age?"]
+      "questions": [
+        "Which school-age schedules are offered?",
+        "Are transportation or school-day arrangements available?",
+        "How do enrollment and availability work for this age?"
+      ]
     }
   ]
 }

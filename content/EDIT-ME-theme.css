@@ -1,15 +1,15 @@
+/* Loving Hearts & Hands CDC — logo-matched red, blue and white palette */
 :root {
-  /* EDIT THESE HEX COLORS TO CHANGE THE ENTIRE DESIGN */
-  --ink: #283d37;
-  --ink-soft: #596961;
-  --paper: #fffdf8;
-  --cream: #fff5e8;
-  --peach: #f9d9c7;
-  --coral: #e88a78;
-  --lavender: #e9e0fa;
-  --lavender-ink: #71619a;
-  --butter: #f7e2a0;
-  --sage: #dbeadd;
-  --line: #e9e5db;
-  --shadow: 0 24px 70px rgba(40,61,55,.09);
+  --ink: #153e70;
+  --ink-soft: #51667d;
+  --paper: #ffffff;
+  --cream: #f3f7fd;
+  --peach: #ffe8eb;
+  --coral: #df1e35;
+  --lavender: #e6f0fd;
+  --lavender-ink: #245da0;
+  --butter: #ffedf0;
+  --sage: #e4effb;
+  --line: #d8e3ef;
+  --shadow: 0 24px 70px rgba(20,57,110,.11);
 }

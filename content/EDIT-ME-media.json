@@ -1,11 +1,47 @@
 {
-  "brandLogo": {"src":"/branding/logo.svg", "alt":"Original temporary Loving Hearts & Hands heart logo (replace with center-approved logo)", "authenticCenterAsset":false},
-  "hero": {"src":"/art/hero-daydream.svg", "alt":"Original abstract illustration of a cheerful home, little flower garden and rainbow; not a photograph of the childcare facility", "authenticCenterAsset":false},
-  "about": {"src":"/art/growing-together.svg", "alt":"Original illustration of flowers, paper shapes and a little house; not a photograph of staff or the center", "authenticCenterAsset":false},
-  "infants": {"src":"/art/infants.svg", "alt":"Original illustration of a sleeping moon and little stars", "authenticCenterAsset":false},
-  "toddlers": {"src":"/art/toddlers.svg", "alt":"Original illustration of stacking blocks and a tiny sun", "authenticCenterAsset":false},
-  "preschool": {"src":"/art/preschool.svg", "alt":"Original illustration of a crayon, flower and letters", "authenticCenterAsset":false},
-  "schoolage": {"src":"/art/schoolage.svg", "alt":"Original illustration of a notebook, pencil and little star", "authenticCenterAsset":false},
-  "facilityPhoto": {"src":"/photos/REPLACE-ME-facility.jpg", "alt":"Center-approved photograph of facility", "authenticCenterAsset":false},
-  "teamPhoto": {"src":"/photos/REPLACE-ME-team.jpg", "alt":"Center-approved photograph of team", "authenticCenterAsset":false}
+  "brandLogo": {
+    "src": "/branding/loving-hearts-hands-logo.png",
+    "alt": "Loving Hearts & Hands CDC logo featuring three hearts and two red handprints",
+    "authenticCenterAsset": true
+  },
+  "hero": {
+    "src": "/art/hero-daydream.svg",
+    "alt": "Original abstract illustration of a cheerful home, little flower garden and rainbow; not a photograph of the childcare facility",
+    "authenticCenterAsset": false
+  },
+  "about": {
+    "src": "/art/growing-together.svg",
+    "alt": "Original illustration of flowers, paper shapes and a little house; not a photograph of staff or the center",
+    "authenticCenterAsset": false
+  },
+  "infants": {
+    "src": "/art/infants.svg",
+    "alt": "Original illustration of a sleeping moon and little stars",
+    "authenticCenterAsset": false
+  },
+  "toddlers": {
+    "src": "/art/toddlers.svg",
+    "alt": "Original illustration of stacking blocks and a tiny sun",
+    "authenticCenterAsset": false
+  },
+  "preschool": {
+    "src": "/art/preschool.svg",
+    "alt": "Original illustration of a crayon, flower and letters",
+    "authenticCenterAsset": false
+  },
+  "schoolage": {
+    "src": "/art/schoolage.svg",
+    "alt": "Original illustration of a notebook, pencil and little star",
+    "authenticCenterAsset": false
+  },
+  "facilityPhoto": {
+    "src": "/photos/REPLACE-ME-facility.jpg",
+    "alt": "Center-approved photograph of facility",
+    "authenticCenterAsset": false
+  },
+  "teamPhoto": {
+    "src": "/photos/REPLACE-ME-team.jpg",
+    "alt": "Center-approved photograph of team",
+    "authenticCenterAsset": false
+  }
 }

@@ -15,7 +15,7 @@ for(const f of htmlFiles){let html=readFileSync(f,'utf8');must(/<title>[^<]+<\/t
 }
 for(const f of files.filter(f=>f.endsWith('.svg'))){const body=readFileSync(f,'utf8');must(body.includes('<svg'),`Invalid SVG ${f}`)}
 const config=JSON.parse(readFileSync(join(root,'content','EDIT-ME-site.json'),'utf8'));
-must(!config.facebookUrl,'Facebook link was not independently verified and should remain disabled by default');
+must(config.facebookUrl==='https://www.facebook.com/p/Loving-Hearts-Hands-CDC-61594077848691/','Facebook page link must match the URL provided for this update');
 must(!config.instagramUrl,'Instagram link should remain disabled by default');
 must(htmlFiles.length===7,'Expected six pages and one custom 404');
 console.log(`${checks} checks, ${errors.length} errors. ${files.length} production files, ${htmlFiles.length} HTML documents.`);
